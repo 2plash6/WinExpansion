@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1736797080 source:c:\users\refus\documents\cpp\mydll\process1\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	<wchar.h>
+

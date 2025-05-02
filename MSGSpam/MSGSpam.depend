@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1723234715 source:c:\users\refus\documents\cpp\mydll\msgspam\main.cpp
+	<iostream>
+	<windows.h>
+	<thread>
+	<ctime>
+	<chrono>
+

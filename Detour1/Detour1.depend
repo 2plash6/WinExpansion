@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730678906 source:c:\users\refus\documents\cpp\mydll\detour1\main.cpp
+	<iostream>
+	<windows.h>
+	<C:\Users\ReFus\Desktop\detours.h>
+

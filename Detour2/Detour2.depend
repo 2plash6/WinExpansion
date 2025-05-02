@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733637152 source:c:\users\refus\documents\cpp\mydll\detour2\main.cpp
+	<iostream>
+	"MinHook.h"
+
+1733628559 c:\users\refus\documents\cpp\mydll\detour2\minhook.h
+	<windows.h>
+

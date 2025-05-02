@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1723921022 source:c:\users\refus\documents\cpp\mydll\intercept5\main.cpp
+	<iostream>
+	<windows.h>
+
+1723746836 source:c:\users\refus\documents\cpp\mydll\intercept5\target.cpp
+	<windows.h>
+

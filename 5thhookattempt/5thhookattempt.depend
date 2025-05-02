@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1734059248 source:c:\users\refus\documents\cpp\mydll\5thhookattempt\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"easyhook.h"
+
+1733874764 c:\users\refus\documents\cpp\mydll\5thhookattempt\easyhook.h
+	<ntddk.h>
+	<ntstrsafe.h>
+	<windows.h>
+	<winnt.h>
+	<winternl.h>
+
